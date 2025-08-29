@@ -15,7 +15,7 @@ export default function Index() {
               <div className="p-2 bg-gradient-to-r from-hope to-support rounded-lg">
                 <Icon name="BookOpen" size={24} className="text-white" />
               </div>
-              <span className="font-montserrat font-bold text-xl text-text-gray">Молодежный Журнал</span>
+              <span className="font-montserrat font-bold text-xl text-text-gray">Gorobzor</span>
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#home" className="font-open-sans text-text-gray hover:text-hope transition-colors">Главная</a>
@@ -39,7 +39,7 @@ export default function Index() {
               Голоса <span className="text-hope">Надежды</span>
             </h1>
             <p className="font-open-sans text-xl text-slate-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              Молодежный журнал, созданный участниками реабилитационной программы. 
+              Gorobzor — журнал, созданный участниками реабилитационной программы. 
               Истории выздоровления, творчество и поддержка для тех, кто ищет свой путь к здоровой жизни.
             </p>
             
@@ -321,7 +321,7 @@ export default function Index() {
                 <div className="p-2 bg-gradient-to-r from-hope to-support rounded-lg">
                   <Icon name="BookOpen" size={20} className="text-white" />
                 </div>
-                <span className="font-montserrat font-bold text-lg">Молодежный Журнал</span>
+                <span className="font-montserrat font-bold text-lg">Gorobzor</span>
               </div>
               <p className="font-open-sans text-slate-300 text-sm">
                 Голоса надежды из Республики Башкортостан
@@ -353,7 +353,7 @@ export default function Index() {
           <Separator className="my-8 bg-slate-600" />
           <div className="text-center">
             <p className="font-open-sans text-sm text-slate-400">
-              © 2024 Молодежный журнал. Проект реализован при поддержке 
+              © 2024 Gorobzor. Проект реализован при поддержке 
               Республиканского центра психолого-педагогической реабилитации и коррекции несовершеннолетних РБ
             </p>
           </div>
