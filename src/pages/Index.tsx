@@ -19,7 +19,7 @@ export default function Index() {
             </div>
             <div className="hidden md:flex items-center space-x-8">
               <a href="#home" className="font-open-sans text-text-gray hover:text-hope transition-colors">Главная</a>
-              <a href="#article" className="font-open-sans text-text-gray hover:text-hope transition-colors">О Журнале</a>
+              <a href="/article" className="font-open-sans text-text-gray hover:text-hope transition-colors">О проекте</a>
               <a href="#contacts" className="font-open-sans text-text-gray hover:text-hope transition-colors">Контакты</a>
               <Button className="bg-hope hover:bg-hope/90 text-white">Участвовать</Button>
             </div>
